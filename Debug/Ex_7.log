@@ -1,0 +1,7 @@
+﻿  Ex_7.cpp
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_7\Ex_7.cpp(31,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_7\Ex_7.cpp(31,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_7\Ex_7.cpp(50,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_7\Ex_7.cpp(56,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_7\Ex_7.cpp(81,20): warning C4018: '<': signed/unsigned mismatch
+  Ex_7.vcxproj -> C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Debug\Ex_7.exe
